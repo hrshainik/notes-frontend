@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <h1 align="center">biofidelicX Quiz</h1>
+  <h1 align="center">Notes</h1>
 
   <p align="center">
-    Here you find all kind of bio-science related quiz.
+    Here you keep all kind of important notes.
     <br />
     <br />
     <a href="#">View Demo</a>
@@ -35,7 +35,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://)
 
-Here you find all kind of bio-science related quiz.
+Here you keep all kind of important notes.
 
 <p align="right"><a href="#top">⇧Back To Top</a></p>
 
